@@ -1,4 +1,6 @@
 📊 Data Analysis with Python, SQL & Data Visualization
+
+
 🚀 Overview
 This project demonstrates my ability to extract insights from data using Python, SQL, and visualization techniques, following an end-to-end data analysis workflow. It reflects how I approach real-world data problems: from querying and cleaning data to analysis, visualization, and actionable insights.
 The notebook is designed to be clear, reproducible, and business-oriented, making it easy for both technical and non-technical stakeholders to understand the results.
